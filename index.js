@@ -10,7 +10,7 @@ const generateScraperUrl = (apiKey) =>
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  res.send("Welcome to Amazon hey hey");
+  res.send("Welcome to Amazon Scraper API.");
 });
 
 // Get Product Details
