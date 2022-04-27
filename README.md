@@ -4,7 +4,7 @@ This project was built using Node.JS and Express as my framework to create a ser
 
 This API  allows users to access product, price, sales rank, and reviews data from Amazon in JSON format.
 
-The project was deployed on Rapid API site.
+The project was deployed on Rapid API site and has four different endpoints.
 
 The link to the live API can be seen below.
 
