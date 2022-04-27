@@ -8,3 +8,4 @@ The project was deployed on Rapid API site.
 
 The link to the live API can be seen below.
 
+[Live Site to API](https://rapidapi.com/abioladanielakinyemi-m1FHKnIgdIV/api/abiola-amazon-data-scraper)
