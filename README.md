@@ -1,6 +1,6 @@
 # Amazon Data Scraper Api
 
-This project was built using Node.JS and Express as my framework to create a server for my backend application to build the Amazon Scraper API.
+This project was built using Node.js and Express.js as my framework to create a server for my backend application to build the Amazon Scraper API.
 
 This API  allows users to access product, price, sales rank, and reviews data from Amazon in JSON format.
 
